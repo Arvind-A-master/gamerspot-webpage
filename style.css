@@ -1,0 +1,228 @@
+*
+{
+
+	padding: 0;
+	margin:  0;
+
+}
+
+.header{
+	height: 100%;
+  background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(https://stmed.net/sites/default/files/styles/1440x900/public/gamer-wallpapers-29572-3729756.jpg?itok=KGIh_pB4);
+ background-size: cover;
+ background-position: center;
+ background-attachment: fixed;
+ padding-top: 20px;
+ text-align: center;
+
+
+}
+ 
+.header img
+{
+
+	width: 100px;
+	float:left;
+	
+}
+.login{
+	width: 100px;
+	padding: 8px;
+	outline: none !important;
+	border:2px solid grey;
+	border-radius:50px ;
+	background: transparent ;
+	color:grey; 
+	float: right;
+
+
+}
+.header h1
+{
+
+	padding-top: 250px;
+	padding-bottom: 0px;
+	font size: 55px;
+	color: #ff4d4d;
+	font-family: fantasy;
+	
+}
+.input-group
+{
+	width: 90%;
+	max-width: 500px;
+	background: white;
+	margin: auto;
+	float: center;
+	padding:2px;
+	border-radius: 30px;
+
+
+
+}  
+.form-control{
+
+
+	border-radius: 30px !important;
+	border: 0 !important;
+	margin: 2px;
+	box-shadow: none !important;
+} 
+.input-group-text{
+
+	width: 60px;
+	background-image: linear-gradient(grey,#ff4d4d);
+	border-radius: 30px !important;
+	border: 0 !important;
+	color: white !important;
+	
+	padding:10px !important;
+	box-shadow: none !important;
+}
+
+/* features */
+
+.features {
+
+    padding:100px 0;
+
+
+}
+h1
+{
+	font size: 55px;
+	color: #ff4d4d;
+	text-align: center;
+	font-family: fantasy;
+	padding-bottom: 30px;
+}
+.features-img img{
+
+
+	width: 30%;
+	box-shadow:         3px 3px 5px 6px #ccc;
+}
+.rating{
+
+	padding: 3px;
+	float: left !important;
+	bottom: -350px;
+	background-color: white;
+	right: 1060;
+    position: absolute;
+    background-color: orange;
+    border-radius: 20px 0 0 20px !important;
+
+}
+.picture-details{
+
+
+	padding-top: 20px;
+
+}
+.picture-details p{
+
+	text-align: justify-all !important;
+	
+	}
+
+.rating2{
+
+	padding: 3px;
+	float: left !important;
+	bottom: -650px;
+	background-color: white;
+	right: 1060;
+    position: absolute;
+    background-color: orange;
+    border-radius: 20px 0 0 20px !important;
+
+}	
+
+.features-img2 img{
+
+
+	width: 30%;
+	box-shadow:         3px 3px 5px 6px #ccc;
+}
+.picture-details2{
+
+
+	padding-top: 20px;
+
+}
+.picture-details2 p{
+
+	text-align: justify-all !important;
+	
+	}
+
+.rating3{
+
+	padding: 3px;
+	float: left !important;
+	bottom: -1000px;
+	background-color: white;
+	right: 1060;
+    position: absolute;
+    background-color: orange;
+    border-radius: 20px 0 0 20px !important;
+
+}	
+
+.features-img3 img{
+
+
+	width: 30%;
+	box-shadow:         3px 3px 5px 6px #ccc;
+}
+.picture-details3{
+
+
+	padding-top: 20px;
+x
+}
+.picture-details3 p{
+
+	text-align: justify-all !important;
+	
+	}	
+.gallery-box iframe{
+
+
+	width: 100%;
+	border-radius: 50px;
+	cursor: pointer;
+	transition: 0.6s;
+	padding : 30px;
+}
+.gallery-box iframe:hover
+{
+	transform: scale(1.1);
+}
+
+.gallery-box{
+
+
+	position: relative;
+	margin-bottom: 30px;
+}
+.gallery{
+	height: 100%;
+  background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(https://images2.alphacoders.com/473/thumb-1920-473109.png);
+ background-size: cover;
+ background-position: center;
+ background-attachment: fixed;
+ padding-top: 20px;
+ text-align: center;
+
+
+}
+.banner{
+
+   height: 80%;
+   background-image: url(https://cdn.wccftech.com/wp-content/uploads/2018/12/nvidia-geforce-gtx-max-q-laptops-ogimage.jpg);
+   background-position: center;
+   background-size: cover;
+   background-attachment: fixed;
+}
